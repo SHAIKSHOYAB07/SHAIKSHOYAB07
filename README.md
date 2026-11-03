@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shaik Shoyab</h1>
-<h3 align="center">A Junior Data Analyst from India</h3>
+<h3 align="center">A Junior Data Analyst from Hyderabad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikshoyab07&label=Profile%20views&color=0e75b6&style=flat" alt="shaikshoyab07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaikshoyab07" alt="shaikshoyab07" /></a> </p>
 
-- 🔭 I’m currently working on **manjeera**
+- 🔭 I’m currently working on **Data Science**
 
 - 🌱 I’m currently learning **Data Analytics, GenAI Developer**
 
