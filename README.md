@@ -11,16 +11,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-4C9AFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20SQL%20%7C%20Excel-14B8A6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-FFB703?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-4C9AFF?style=flat" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20SQL%20%7C%20Excel-14B8A6?style=flat" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-FFB703?style=flat" />
 </p>
 
 ---
 
 ## About Me
 
-I am an aspiring Data Analyst with a growing interest in exploring datasets, identifying trends, and turning information into meaningful business insights. I enjoy working with Python, SQL, Excel, and data visualization tools to support decision-making with clear and actionable analysis.
+I am an aspiring Data Analyst with a growing interest in exploring datasets, identifying trends, and turning information into meaningful business insights. I enjoy working with Python, SQL, Excel, and data visualization tools to solve problems and communicate findings clearly.
 
 I am especially interested in:
 - Data cleaning and transformation
