@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="mailto:shaikshoyab2907@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shaik-shoyab-245a26296" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="https://github.com/SHAIKSHOYAB07" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:shaikshoyab2907@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shaik-shoyab-245a26296" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://github.com/SHAIKSHOYAB07" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-4C9AFF?style=flat" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20SQL%20%7C%20Excel-14B8A6?style=flat" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-FFB703?style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-4C9AFF?style=plastic" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20SQL%20%7C%20Excel-14B8A6?style=plastic" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-FFB703?style=plastic" />
 </p>
 
 ---
@@ -33,12 +33,12 @@ I am especially interested in:
 ## Core Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white" alt="SQL" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Data_Visualization-FFB703?style=flat" alt="Visualization" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Problem_Solving-6C63FF?style=flat" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=plastic&logo=postgresql&logoColor=white" alt="SQL" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white" alt="Excel" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Data_Visualization-FFB703?style=plastic" alt="Visualization" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Problem_Solving-6C63FF?style=plastic" alt="Problem Solving" />
 </p>
 
 - Python
