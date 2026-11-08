@@ -2,8 +2,9 @@
 <h3 align="center">Aspiring Data Analyst | Python | SQL | Excel | Data Visualization</h3>
 
 <p align="center">
-  <a href="mailto:shaikshoyab2907@gmail.com"><img src="https://img.shields.io/badge/Gmail-shaikshoyab2907%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/shaik-shoyab-245a26296" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shaikshoyab2907@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/shaik-shoyab-245a26296" target="_blank" rel="noreferrer">LinkedIn Profile</a>
 </p>
 
 ## About Me
