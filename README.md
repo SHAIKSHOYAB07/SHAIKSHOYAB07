@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shaik Shoyab 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Aspiring+Data+Analyst" alt="Aspiring Data Analyst" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&pause=1000&color=1F4E79&center=true&vCenter=true&width=550&lines=Aspiring+Data+Analyst" alt="Aspiring Data Analyst" />
 </p>
 
 <p align="center">
