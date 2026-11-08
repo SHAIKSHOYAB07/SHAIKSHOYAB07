@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shaik Shoyab 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Aspiring+Data+Analyst" alt="Aspiring Data Analyst" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Aspiring+Data+Analyst" alt="Aspiring Data Analyst" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## About Me
 
-I am an aspiring Data Analyst with a growing interest in exploring datasets, identifying trends, and turning information into meaningful business insights. I enjoy working with Python, SQL, and Excel to analyze data and communicate findings.
+I am an aspiring Data Analyst with a growing interest in exploring datasets, identifying trends, and turning information into meaningful business insights. I enjoy working with Python, SQL, and Excel to answer practical questions and communicate useful findings.
 
 I am especially interested in:
 - Data cleaning and transformation
