@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Shaik Shoyab 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel;Data+Driven+Problem+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=0F766E&center=true&vCenter=true&width=550&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel;Data+Driven+Problem[...]
 </p>
 
 <p align="center">
   <a href="mailto:shaikshoyab2907@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shaik-shoyab-245a26296" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shaik-shoyab-245a26296" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&n[...]
   <a href="https://github.com/SHAIKSHOYAB07" target="_blank"><img src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ## About Me
 
-I am an aspiring Data Analyst with a growing interest in exploring datasets, identifying trends, and turning information into meaningful business insights. I enjoy working with Python, SQL, Excel, and data visualization tools to solve real-world problems and deliver clear insights.
+I am an aspiring Data Analyst with a growing interest in exploring datasets, identifying trends, and turning information into meaningful business insights. I enjoy working with Python, SQL, Excel,[...]
 
 I am especially interested in:
 - Data cleaning and transformation
