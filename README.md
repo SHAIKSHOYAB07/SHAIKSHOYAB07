@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-2563EB?style=flat" alt="Focus: Data Analytics" /><br>
-  <img src="https://img.shields.io/badge/Python%20%7C%20SQL%20%7C%20Excel-0F766E?style=flat" alt="Python | SQL | Excel" /><br>
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-2563EB?style=flat" alt="Focus: Data Analytics" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python%20%7C%20SQL%20%7C%20Excel-0F766E?style=flat" alt="Python | SQL | Excel" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-D97706?style=flat" alt="Location: Hyderabad, India" />
 </p>
 
