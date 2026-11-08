@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shaik Shoyab 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&pause=1000&color=1F4E79&center=true&vCenter=true&width=550&lines=Aspiring+Data+Analyst+%7C+PYTHON+%7C+SQL+%7C+EXCEL" alt="Aspiring Data Analyst | PYTHON | SQL | EXCEL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&pause=1000&color=1F4E79&center=true&vCenter=true&width=550&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel" alt="Aspiring Data Analyst | Python | SQL | Excel" />
 </p>
 
 <p align="center">
