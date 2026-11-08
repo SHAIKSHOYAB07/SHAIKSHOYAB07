@@ -33,12 +33,12 @@ I am especially interested in:
 ## Core Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Data_Visualization-FFB703?style=for-the-badge" alt="Visualization" />
-  <img src="https://img.shields.io/badge/Problem_Solving-6C63FF?style=for-the-badge" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white" alt="SQL" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Data_Visualization-FFB703?style=flat" alt="Visualization" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Problem_Solving-6C63FF?style=flat" alt="Problem Solving" />
 </p>
 
 - Python
